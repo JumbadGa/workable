@@ -1,5 +1,4 @@
 from hstest import dynamic_test
-
 from test.base import HyperJobTest
 
 
